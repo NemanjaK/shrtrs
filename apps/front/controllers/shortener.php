@@ -4,7 +4,6 @@
      * @author    Nemanja Krivokapic <nemanja.krivokapic@codeanvil.co>
      * @copyright CodeAnvil© 2012
      *
-     * @property Redis $redis
      */
     class Shortener extends MY_Controller {
         public function __construct() {
